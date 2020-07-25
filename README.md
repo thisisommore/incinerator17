@@ -1,4 +1,4 @@
-<h2><div align="center"> Eh, Nothing to write .. so something cool to display here XD</div></h2>
+<h2><div align="center"> Eh, Nothing to write .. So something nice to display here XD</div></h2>
 <br>
 
 <p align="center">
