@@ -1,6 +1,3 @@
-<h2><div align="center"> Eh, Nothing to write .. So something nice to display here XD</div></h2>
-<br>
-
 <p align="center">
 <img src="https://media1.giphy.com/media/MdS1UI65VaBz7Yl6po/giphy.gif?cid=ecf05e4780322f3ea07a0a4aa2056c550cfc222664140808&rid=giphy.gif" >
 </p>
